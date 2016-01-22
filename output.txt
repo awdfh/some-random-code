@@ -7,10 +7,6 @@ total 40
 total 0
 drwxr-xr-x  3 davidfh  davidfh  102 Dec 14 10:56 locale
 
-/Users/davidfh//Library/Thunderbird/Profiles/4cxsns83.default/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning-hsb/locale:
-total 0
-drwxr-xr-x  3 davidfh  davidfh  102 Dec 14 10:56 hsb
-
 /Users/davidfh//Library/Thunderbird/Profiles/4cxsns83.default/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning-hsb/locale/hsb:
 total 0
 drwxr-xr-x  5 davidfh  davidfh  170 Dec 14 10:56 lightning
@@ -47,19 +43,11 @@ drwxr-xr-x  3 davidfh  davidfh  102 Dec 14 10:56 locale
 total 0
 drwxr-xr-x  3 davidfh  davidfh  102 Dec 14 10:56 id
 
-/Users/davidfh//Library/Thunderbird/Profiles/4cxsns83.default/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning-id/locale/id:
-total 0
-drwxr-xr-x  5 davidfh  davidfh  170 Dec 14 10:56 lightning
-
 /Users/davidfh//Library/Thunderbird/Profiles/4cxsns83.default/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning-id/locale/id/lightning:
 total 40
 -rw-r--r--@ 1 davidfh  davidfh  4025 Dec 14 10:40 lightning-toolbar.dtd
 -rw-r--r--@ 1 davidfh  davidfh  7703 Dec 14 10:40 lightning.dtd
 -rw-r--r--@ 1 davidfh  davidfh  7959 Dec 14 10:40 lightning.properties
-
-/Users/davidfh//Library/Thunderbird/Profiles/4cxsns83.default/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning-is:
-total 0
-drwxr-xr-x  3 davidfh  davidfh  102 Dec 14 10:56 locale
 
 /Users/davidfh//Library/Thunderbird/Profiles/4cxsns83.default/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning-is/locale:
 total 0
@@ -140,12 +128,6 @@ drwxr-xr-x  3 davidfh  davidfh  102 Dec 14 10:56 lt
 /Users/davidfh//Library/Thunderbird/Profiles/4cxsns83.default/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning-lt/locale/lt:
 total 0
 drwxr-xr-x  5 davidfh  davidfh  170 Dec 14 10:56 lightning
-
-/Users/davidfh//Library/Thunderbird/Profiles/4cxsns83.default/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning-lt/locale/lt/lightning:
-total 40
--rw-r--r--@ 1 davidfh  davidfh  2357 Dec 14 10:40 lightning-toolbar.dtd
--rw-r--r--@ 1 davidfh  davidfh  5795 Dec 14 10:40 lightning.dtd
--rw-r--r--@ 1 davidfh  davidfh  6645 Dec 14 10:40 lightning.properties
 
 /Users/davidfh//Library/Thunderbird/Profiles/4cxsns83.default/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning-nb-NO:
 total 0
@@ -254,10 +236,6 @@ total 48
 -rw-r--r--@ 1 davidfh  davidfh  2358 Dec 14 10:40 lightning-toolbar.dtd
 -rw-r--r--@ 1 davidfh  davidfh  5716 Dec 14 10:40 lightning.dtd
 -rw-r--r--@ 1 davidfh  davidfh  8210 Dec 14 10:40 lightning.properties
-
-/Users/davidfh//Library/Thunderbird/Profiles/4cxsns83.default/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning-pt-PT:
-total 0
-drwxr-xr-x  3 davidfh  davidfh  102 Dec 14 10:56 locale
 
 /Users/davidfh//Library/Thunderbird/Profiles/4cxsns83.default/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning-pt-PT/locale:
 total 0
